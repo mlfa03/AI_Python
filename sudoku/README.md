@@ -1,4 +1,4 @@
-#Sudoku implemented in Python 
+## Sudoku implemented in Python 
 
 Sudoku is a Japanese game. It appeared first in 1984. 
 
